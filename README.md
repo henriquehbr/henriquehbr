@@ -2,6 +2,22 @@
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=henriquehbr)
 
+## Talks
+
+#### [2° Meetup Svelte Brasil](https://www.youtube.com/watch?v=_izeIDmeq7g&t=2520s)
+
+- **Date:** 01/09/2020
+- **Start time:** 19:30PM GMT-3
+- **Talk duration:** ~10 mins
+- **Theme:** Project architecture configuration and instant component generation in Svelte
+
+#### [4º Meetup do Svelte Brasil](https://youtu.be/vDW_zVq5-vY?t=5320)
+
+- **Date:** 28/01/2021
+- **Start time:** 19:30PM GMT-3
+- **Talk duration:** ~36 mins
+- **Theme:** Svelte and Snowpack integration (with esbuild)
+
 ## Social networks
 
 - ![henriquehbr#7924 on Discord](https://img.shields.io/badge/discord-henriquehbr%237924-%23738adb) - Sometimes i let it running on background, so you might find me rather easily there
