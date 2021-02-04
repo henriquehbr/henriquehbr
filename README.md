@@ -1,7 +1,3 @@
-![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=henriquehbr)
-
-![trophy](https://github-profile-trophy.vercel.app/?username=henriquehbr)
-
 ## Talks
 
 #### [2° Meetup Svelte Brasil](https://www.youtube.com/watch?v=_izeIDmeq7g&t=2520s)
