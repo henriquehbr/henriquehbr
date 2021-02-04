@@ -1,13 +1,13 @@
 ## Talks
 
-#### [2° Meetup Svelte Brasil](https://www.youtube.com/watch?v=_izeIDmeq7g&t=2520s)
+#### [2° Svelte Brasil Meetup](https://www.youtube.com/watch?v=_izeIDmeq7g&t=2520s)
 
 - **Date:** 01/09/2020
 - **Start time:** 19:30PM GMT-3
 - **Talk duration:** ~10 mins
 - **Theme:** Project architecture configuration and instant component generation in Svelte
 
-#### [4º Meetup do Svelte Brasil](https://youtu.be/vDW_zVq5-vY?t=5320)
+#### [4º Svelte Brasil Meetup](https://youtu.be/vDW_zVq5-vY?t=5320)
 
 - **Date:** 28/01/2021
 - **Start time:** 19:30PM GMT-3
