@@ -1,18 +1,8 @@
 ## Talks
 
-#### [2° Svelte Brasil Meetup](https://www.youtube.com/watch?v=_izeIDmeq7g&t=2520s)
+#### [2° Svelte Brasil Meetup (01/09/2020) - Project architecture configuration and instant component generation in Svelte](https://www.youtube.com/watch?v=_izeIDmeq7g&t=2520s)
 
-- **Date:** 01/09/2020
-- **Start time:** 19:30PM GMT-3
-- **Talk duration:** ~10 mins
-- **Theme:** Project architecture configuration and instant component generation in Svelte
-
-#### [4º Svelte Brasil Meetup](https://youtu.be/vDW_zVq5-vY?t=5320)
-
-- **Date:** 28/01/2021
-- **Start time:** 19:30PM GMT-3
-- **Talk duration:** ~36 mins
-- **Theme:** Svelte and Snowpack integration (with esbuild)
+#### [4º Svelte Brasil Meetup (28/01/2021) - Svelte and Snowpack integration (with esbuild)](https://youtu.be/vDW_zVq5-vY?t=5320)
 
 ## Social networks
 
