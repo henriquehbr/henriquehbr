@@ -16,10 +16,10 @@
 
 ## Social networks
 
-- ![henriquehbr#7924 on Discord](https://img.shields.io/badge/discord-henriquehbr%237924-%23738adb?logo=discord) - Sometimes i let it running on background, so you might find me rather easily there
-- [![u/henriquehbr on Reddit](https://img.shields.io/badge/Reddit-henriquehbr-%23FF4300?logo=reddit)](http://reddit.com/r/henriquehbr) - I usually hang out there when i'm bored
-- [![Henrique Borges on LinkedIn](https://img.shields.io/badge/LinkedIn-Henrique%20Borges-%230072b1?logo=linkedin)](https://www.linkedin.com/in/henrique-borges-ab2217156/) - I rarely use this one, not a big fan of the normie community
-- [![henriquehbr on StackOverflow](https://img.shields.io/badge/StackOverflow-henriquehbr-%23f48024?logo=stackoverflow)](https://stackoverflow.com/users/9182121/henriquehbr) - I usually roam around here, more frequently when i'm learning something or facing bugs
+- ![henriquehbr#7924 on Discord](https://img.shields.io/badge/discord-henriquehbr%237924-%23738adb?logo=discord&logoColor=FFFFFF) - Sometimes i let it running on background, so you might find me rather easily there
+- [![u/henriquehbr on Reddit](https://img.shields.io/badge/Reddit-henriquehbr-%23FF4300?logo=reddit&logoColor=FFFFFF)](http://reddit.com/r/henriquehbr) - I usually hang out there when i'm bored
+- [![Henrique Borges on LinkedIn](https://img.shields.io/badge/LinkedIn-Henrique%20Borges-%230072b1?logo=linkedin&logoColor=FFFFFF)](https://www.linkedin.com/in/henrique-borges-ab2217156/) - I rarely use this one, not a big fan of the normie community
+- [![henriquehbr on StackOverflow](https://img.shields.io/badge/StackOverflow-henriquehbr-%23f48024?logo=stackoverflow&logoColor=FFFFFF)](https://stackoverflow.com/users/9182121/henriquehbr) - I usually roam around here, more frequently when i'm learning something or facing bugs
 
 ## Working with
 
