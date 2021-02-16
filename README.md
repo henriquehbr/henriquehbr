@@ -21,4 +21,15 @@
 - [![Henrique Borges on LinkedIn](https://img.shields.io/badge/LinkedIn-Henrique%20Borges-%230072b1?logo=linkedin)](https://www.linkedin.com/in/henrique-borges-ab2217156/) - I rarely use this one, not a big fan of the normie community
 - [![henriquehbr on StackOverflow](https://img.shields.io/badge/StackOverflow-henriquehbr-%23f48024?logo=stackoverflow)](https://stackoverflow.com/users/9182121/henriquehbr) - I usually roam around here, more frequently when i'm learning something or facing bugs
 
+## Working with
+
+[![Svelte](https://img.shields.io/badge/-Svelte-FF3E00?logo=svelte&logoColor=FFFFFF)](https://github.com/sveltejs/svelte)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000000)](https://github.com/topics/javascript)
+[![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=javascript&logoColor=FFFFFF)](https://github.com/microsoft/TypeScript)
+[![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=FFFFFF)](https://github.com/nodejs/node)
+[![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=FFFFFF)](https://github.com/topics/html)
+[![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=FFFFFF)](https://github.com/topics/css)
+[![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=FFFFFF)](https://github.com/git/git)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=FFFFFF)](https://github.com/)
+
 > _If you're not a React/Angular developer, we might be friends :)_
