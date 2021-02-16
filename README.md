@@ -6,10 +6,10 @@
 
 ## Social networks
 
-[![henriquehbr#7924 on Discord](https://img.shields.io/badge/discord-henriquehbr%237924-%23738adb?logo=discord&logoColor=FFFFFF)](http://discord.com/)
-[![u/henriquehbr on Reddit](https://img.shields.io/badge/Reddit-henriquehbr-%23FF4300?logo=reddit&logoColor=FFFFFF)](http://reddit.com/r/henriquehbr)
-[![Henrique Borges on LinkedIn](https://img.shields.io/badge/LinkedIn-Henrique%20Borges-%230072b1?logo=linkedin&logoColor=FFFFFF)](https://www.linkedin.com/in/henrique-borges-ab2217156/)
-[![henriquehbr on StackOverflow](https://img.shields.io/badge/StackOverflow-henriquehbr-%23f48024?logo=stackoverflow&logoColor=FFFFFF)](https://stackoverflow.com/users/9182121/henriquehbr)
+![henriquehbr#7924 on Discord](https://img.shields.io/badge/discord-henriquehbr%237924-%23738adb?logo=discord&logoColor=FFFFFF)]
+[![u/henriquehbr on Reddit](https://img.shields.io/badge/Reddit-FF4300?logo=reddit&logoColor=FFFFFF)](http://reddit.com/r/henriquehbr)
+[![Henrique Borges on LinkedIn](https://img.shields.io/badge/LinkedIn-0072b1?logo=linkedin&logoColor=FFFFFF)](https://www.linkedin.com/in/henrique-borges-ab2217156/)
+[![henriquehbr on StackOverflow](https://img.shields.io/badge/StackOverflow-f48024?logo=stackoverflow&logoColor=FFFFFF)](https://stackoverflow.com/users/9182121/henriquehbr)
 
 ## Working with
 
