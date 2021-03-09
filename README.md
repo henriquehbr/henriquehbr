@@ -15,7 +15,7 @@
 
 [![Svelte](https://img.shields.io/badge/-Svelte-FF3E00?logo=svelte&logoColor=FFFFFF)](https://github.com/sveltejs/svelte)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000000)](https://github.com/topics/javascript)
-[![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=javascript&logoColor=FFFFFF)](https://github.com/microsoft/TypeScript)
+[![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=FFFFFF)](https://github.com/microsoft/TypeScript)
 [![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=FFFFFF)](https://github.com/nodejs/node)
 [![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=FFFFFF)](https://github.com/topics/html)
 [![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=FFFFFF)](https://github.com/topics/css)
