@@ -5,6 +5,9 @@
   "repository": "https://github.com/henriquehbr/henriquehbr.git",
   "author": "Henrique Borges <henriqueborgeshbr@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "build": "node build"
+  },
   "devDependencies": {
     "pug": "^3.0.2",
     "stylus": "^0.54.8"
