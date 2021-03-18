@@ -6,9 +6,11 @@
   "author": "Henrique Borges <henriqueborgeshbr@gmail.com>",
   "license": "MIT",
   "scripts": {
+    "prepare": "husky install",
     "build": "node build"
   },
   "devDependencies": {
+    "husky": "^5.1.3",
     "pug": "^3.0.2",
     "stylus": "^0.54.8"
   }
