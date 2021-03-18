@@ -1,0 +1,33 @@
+@import 'variables'
+@import 'typography'
+@import 'container/*'
+@import 'animations/*'
+@import 'content/*'
+
+@font-face 
+	font-family VT323
+	src url(./assets/fonts/VT323-Regular.ttf) format('truetype')
+
+* 
+	box-sizing border-box
+
+
+body 
+	background #383838
+	color light-green
+	font-family 'VT323'
+	font-size 24px
+	-webkit-font-smoothing none
+	line-height 1.2
+	user-select none
+
+	a 
+		color light-green
+
+body::selection 
+	background-color light-green
+	color dark-green
+
+
+body::selection .noisy 
+	background-image url('../img/noisy.png')
